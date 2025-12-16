@@ -2,6 +2,7 @@
   "name": "projectcolab",
   "version": "1.0.0",
   "description": "Sistema colaborativo de gestión de proyectos tipo Microsoft Project",
+  "license": "MIT",
   "private": true,
   "workspaces": [
     "backend",

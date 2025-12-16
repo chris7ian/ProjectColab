@@ -85,5 +85,9 @@ ProjectColab/
 
 - Backend: `npm run dev:backend`
 - Frontend: `npm run dev:frontend`
-- Ambos: `npm run dev`
+- Ambos: `npm run dev` (también inicia PostgreSQL automáticamente)
+
+## Licencia
+
+Este proyecto está licenciado bajo la [MIT License](LICENSE).
 
